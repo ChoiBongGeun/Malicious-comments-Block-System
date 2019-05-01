@@ -1,4 +1,4 @@
-//html 전체 크롤링
+//html 전체 크롤링 requests는 http 요청을 보낼때 beautifulsoup는 html 에서 정보를 가져오기 위해 사용하는 라이브러리
 import pandas as pd
 test_url = "https://movie.naver.com/movie/bi/mi/pointWriteFormList.nhn?code=136900&type=after&page=1"
 resp = requests.get(test_url)
