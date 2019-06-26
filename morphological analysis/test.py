@@ -5,11 +5,14 @@ sentences = [sentence] * 10000
 
 import time
 from konlpy.tag import Hannanum, Kkma, Komoran, Okt, Mecab
+from khaiii import KhaiiiApi
 morphs_processors= [('Hannanum', Hannanum()), ('Kkma', Kkma()), ('Komoran', Komoran()), ('Okt', Okt()), ('mecab', Mecab())]
 for name, morphs_processor in morphs_processors:
     strat_time = time.time()
     morphs = [morphs_processor.morphs(sentence) for sentence in sentences]                                          
     elapsed_time = time.time() - strat_time
     print('morphs_processor name = %20s, %.5f secs' % (name, elapsed_time))
-
-
+strat_time = time.time()
+morphs = [api.analyze(sentence) for sentence in sentences]
+elapsed_time = time.time() - strat_time
+print('morphs_processor name = %20s, %.5f secs' % (name, elapsed_time))
