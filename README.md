@@ -1,4 +1,4 @@
-#기계학습 기반 문장분석을 통한 악의적인 댓글 선별
+# 기계학습 기반 문장분석을 통한 악의적인 댓글 선별
 
 팀원 최봉근, 오민규, 설세형, 홍정우
 
@@ -6,19 +6,20 @@
 
 자세한 사항은 기계학습_기반_문장분석을_통한_악의적인_댓글_선별.pdf 파일 참조
 
-#프로그램 다운받는곳 
+# 프로그램 다운받는곳 
 https://drive.google.com/open?id=1lXR9Jtv83XVrqridXTVpmS6bH9L3r8qe
 
-#프로그램 사용방법 
+# 프로그램 사용방법 
 1. Detecting-malicous-comments-senetence-analysis.zip파일을 다운 받아서 압축을 푼다
 2. Detecting-malicous-comments-senetence-analysis파일안에 있는 detecting.exe를 실행 시킨다
 3. 프로그램을 실행 시키고 조금 기다리면 'url을 입력하세요'라는 문구와 함께 창이 뜬다 이때 네이버 뉴스 url을 입력해주고 ok를 누른다
 4. keyword를 입력하라는 문구가 나온다. keyword를 입력하고 ok를 누른다 만약 keyword를 입력하지 않을려면 빈칸으로 ok를 누른다.
 5. 조금 기다리면 댓글 총개수와 악플 개수 의심개수 일반 개수를 보여준다음 프로그램이 종료되었습니다라는 문구가 뜬다.
-6. 파일안에 총 댓글과 악플,의심,일반txt파일이 생성 되어있다.# Detecting-malicous-comments-senetence-analysis
+6. 파일안에 총 댓글과 악플,의심,일반txt파일이 생성 되어있다.
 
 
-ps. morphological analysis 파일안에는 형태소 분석기 정확도 분석을 실시하였다. 
-초반에는 형태소분석기를 사용하여 단어 토큰화 하여 사용할 목적으로 
-형태소 분석기 정확도 분석을 실시하였으나 fastText를 사용하는 바람에 사용하지 않았다.  
+ps. morphological analysis 파일안에는 형태소 분석기 정확도 분석을 실시하였다. <br> 
+초반에는 형태소분석기를 사용하여 단어 토큰화 하여 사용할 목적으로 <br>
+형태소 분석기 정확도 분석을 실시하였으나 fastText를 사용하는 바람에 사용하지 않았다. <br>
+분석 결과는 morphological analysis 파일안 형태소 분석기 비교.pdf 참고
 
