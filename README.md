@@ -1,4 +1,4 @@
-기계학습 기반 문장분석을 통한 악의적인 댓글 선별
+#기계학습 기반 문장분석을 통한 악의적인 댓글 선별
 
 팀원 최봉근, 오민규, 설세형, 홍정우
 
@@ -6,9 +6,10 @@
 
 자세한 사항은 기계학습_기반_문장분석을_통한_악의적인_댓글_선별.pdf 파일 참조
 
-프로그램 다운받는곳: https://drive.google.com/open?id=1lXR9Jtv83XVrqridXTVpmS6bH9L3r8qe
+#프로그램 다운받는곳 
+https://drive.google.com/open?id=1lXR9Jtv83XVrqridXTVpmS6bH9L3r8qe
 
-프로그램 사용방법 
+#프로그램 사용방법 
 1. Detecting-malicous-comments-senetence-analysis.zip파일을 다운 받아서 압축을 푼다
 2. Detecting-malicous-comments-senetence-analysis파일안에 있는 detecting.exe를 실행 시킨다
 3. 프로그램을 실행 시키고 조금 기다리면 'url을 입력하세요'라는 문구와 함께 창이 뜬다 이때 네이버 뉴스 url을 입력해주고 ok를 누른다
