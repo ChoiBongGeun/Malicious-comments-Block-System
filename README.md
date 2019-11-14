@@ -7,7 +7,7 @@
 자세한 사항은 기계학습_기반_문장분석을_통한_악의적인_댓글_선별.pdf 파일 참조
 
 # 프로그램 다운받는곳 
-https://drive.google.com/open?id=1w9JZSKCrhdz0OceoaS0LfI2WYJ_UCL7B
+https://drive.google.com/open?id=1KCOAHKQqeDcN0Qh68D_JbJcu0GDdmEA3
 
 # 프로그램 사용방법 
 1. Detecting-malicous-comments-senetence-analysis.zip파일을 다운 받아서 압축을 푼다
