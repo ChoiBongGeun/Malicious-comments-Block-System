@@ -17,6 +17,9 @@ https://drive.google.com/open?id=1KCOAHKQqeDcN0Qh68D_JbJcu0GDdmEA3
 5. 조금 기다리면 댓글 총개수와 악플 개수 의심개수 일반 개수를 보여준다음 프로그램이 종료되었습니다라는 문구가 뜬다.
 6. 파일안에 총 댓글과 악플,의심,일반txt파일이 생성 되어있다.
 
+# 제작기간
+2019-04-11 ~ 
+
 
 ps. morphological analysis 파일안에는 형태소 분석기 정확도 분석을 실시하였다. <br> 
 초반에는 형태소분석기를 사용하여 단어 토큰화 하여 사용할 목적으로 <br>
