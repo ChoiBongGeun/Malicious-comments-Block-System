@@ -19,7 +19,7 @@ https://drive.google.com/open?id=1KCOAHKQqeDcN0Qh68D_JbJcu0GDdmEA3
 6. 파일안에 총 댓글과 악플,의심,일반txt파일이 생성 되어있다.
 
 # 프로그램 시연 동영상
-키워드가 없을시 1. https://www.youtube.com/watch?v=PRDsxupsVSI&feature=youtu.be <br>
+키워드가 없을시 :https://www.youtube.com/watch?v=PRDsxupsVSI&feature=youtu.be <br>
 키워드가 있을시 :https://www.youtube.com/watch?v=VLx0hKOC9ag&feature=youtu.be <br>
 더 많은 시연영상은 '문장을 분석하여 악의적인 댓글 선별.pdf' 파일 결론부분이 있습니다.
 
