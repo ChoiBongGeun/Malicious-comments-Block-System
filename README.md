@@ -24,7 +24,10 @@ https://drive.google.com/open?id=1KCOAHKQqeDcN0Qh68D_JbJcu0GDdmEA3
 더 많은 시연영상은 '문장을 분석하여 악의적인 댓글 선별.pdf' 파일 결론부분이 있습니다.
 
 # 제작기간
-2019-04-11 ~ 2019-12-10
+2019-04-11 ~ 2019-12-10<br>
+crawler가 붙은 파일들은 모델을 학습시키기 위해 크롤링하기 위해 사용했던 코드<br>
+keyword.py gui없는 버전의 코드<br>
+detecting.py gui있는 버전의 코드<br>
 
 ps. morphological analysis 파일안에는 형태소 분석기 정확도 분석을 실시하였다. <br> 
 초반에는 형태소분석기를 사용하여 단어 토큰화 하여 사용할 목적으로 <br>
